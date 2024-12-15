@@ -10,7 +10,7 @@ public class TugasNo3 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Masukkan bulan ke-n yang ingin anda cari: ");
+        System.out.print("Masukkan bulan yang ingin anda cari: ");
         int n = sc.nextInt();
 
         if (n < 1) {
